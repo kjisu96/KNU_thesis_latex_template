@@ -4,7 +4,8 @@ Kyungpook National University (KNU) Thesis/Dissertation LaTeX Template.
 
 
 
-경북대학교 학위 논문 LaTeX 양식입니다. 테스트 환경은 Windows 11, Tex Live 2024 이며 2025년 1월 기준 양식으로 작성했습니다. 석사 논문으로도 편집 가능하나, 박사 논문 양식으로만 테스트 완료 했습니다. Overleaf는 테스트 해보지 않았으며 제가 사용하지 않기 때문에 컴파일 등에 대한 질문을 하셔도 도움이 되지 못할 것 같습니다.
+경북대학교 학위 논문 LaTeX 양식입니다. 테스트 환경은 Windows 11, Tex Live 2024 이며 2025년 1월 기준 양식으로 작성했습니다. 컴파일 환경은 Visual Studio Code의 LaTeX Workshop extension에서 `latexmk`를 사용했습니다.
+석사 논문으로도 편집 가능하나, 박사 논문 양식으로만 테스트 완료 했습니다. Overleaf는 테스트 해보지 않았으며 제가 사용하지 않기 때문에 컴파일 등에 대한 질문을 하셔도 도움이 되지 못할 것 같습니다.
 
 
 
@@ -20,7 +21,7 @@ Kyungpook National University (KNU) Thesis/Dissertation LaTeX Template.
 
 > **Acknowledge**
 >
-> 본 양식은 @lonelywing 님의 POSTECH 학위 논문 LaTeX 양식을 바탕으로 @seonho 님의 겉표지, 인준서를 양식을 합쳐 만들었습니다. 공유 감사드립니다.
+> 본 양식은 @lonelywing 님의 POSTECH 학위 논문 LaTeX 양식을 바탕으로 @seonho 님의 겉표지, 인준서 양식을 합쳐 만들었습니다. 공유 감사드립니다.
 >
 > https://github.com/lonelywing/POSTECH_thesis_template_latex.git
 >
